@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #516dff;
+  background-color: #6e1f86;
   color: #fff;
   font-family: "Press Start 2P", sans-serif;
   height: 100vh;
@@ -77,7 +77,7 @@ h1 {
 
 .choose-champion-btn:hover {
   background-color: #fff;
-  color: #516dff;
+  color: #6e1f86;
 }
 
 .choose-champion-btn:active {
@@ -133,8 +133,8 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   position: absolute;
   top: 200px;
   left: 300px;
@@ -147,6 +147,6 @@ h1 {
 }
 
 .champion img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
